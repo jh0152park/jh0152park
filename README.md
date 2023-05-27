@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jh0152park
-- 👀 I’m interested in QA / Automation / Test
+- 👀 I’m interested in Frontend or QA / Automation / Test
 - 🌱 I’m currently learning especially python
 - 💞️ I’m looking to collaborate on ...? :0
 - 📫 How to reach me jh0152park@naver.com
