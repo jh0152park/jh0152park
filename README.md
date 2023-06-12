@@ -8,3 +8,6 @@
 jh0152park/jh0152park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![jh0152park's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh0152park&show_icons=true&theme=highcontrast) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh0152park&layout=compact&theme=dark)
