@@ -10,5 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jh0152park&layout=compact&theme=dark)
+<a href="https://github.com/jh0152park"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jh0152park&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="jh0152park github stats" /></a>
 
 ![jh0152park's GitHub stats](https://github-readme-stats.vercel.app/api?username=jh0152park&show_icons=true&theme=dark) 
