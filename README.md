@@ -10,3 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="https://github.com/jh0152park"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=jh0152park&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="jh0152park github stats" /></a> <a href="https://github.com/jh0152park"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0152park&layout=compact&theme=dark&hide_border=true" /></a> 
+
+
+<div align="left">
+  <h2>✅ My Work Experience ✅</h2>
+  <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
+  <br>
+  <span>삼성전자 무선사업부 System Platform R&D Group, Android Platform Memory, Performance, Process Life Cycle 분석 및 최적화</span>
+</div>
