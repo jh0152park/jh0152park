@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
   <h2>✅ My Work Experience ✅</h2>
   <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
   <br>
-  <span>삼성전자 무선사업부 System Platform R&D Group, Android Platform Memory, Performance, Process Life Cycle 분석 및 최적화</span>
+  <span>삼성전자 무선사업부 System Platform 개발그룹, Android Platform App Entry & Refresh Performance, Memory, Process Life Cycle 분석 및 최적화</span>
 </div>
+
