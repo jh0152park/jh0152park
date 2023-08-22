@@ -19,6 +19,12 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Android Platform Automation Test-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/>
   <img src="https://img.shields.io/badge/Android Process Life Cycle Analysis-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/>
   <br>
+  <img src="https://img.shields.io/badge/React-rgb(255,255,255)?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/GraphQL-rgb(255,255,255)?style=flat&logo=graphql&logoColor=E10098"/>
+  <img src="https://img.shields.io/badge/GitHub-rgb(255,255,255)?style=flat&logo=github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/Notion-rgb(255,255,255)?style=flat&logo=notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Xlsxwriter for Execl RPA-rgb(255,255,255)?style=flat&logo=microsoftexcel&logoColor=217346"/>
+  <br>
   <img src="https://img.shields.io/badge/Python-rgb(255,255,255)?style=flat&logo=python&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Selenium-rgb(255,255,255)?style=flat&logo=selenium&logoColor=43B02A"/>
   <img src="https://img.shields.io/badge/HTML5-rgb(255,255,255)?style=flat&logo=html5&logoColor=E34F26"/>
@@ -26,11 +32,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/JavaScript-rgb(255,255,255)?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-rgb(255,255,255)?style=flat&logo=typescript&logoColor=3178C6"/>
   <br>
-  <img src="https://img.shields.io/badge/React-rgb(255,255,255)?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/GraphQL-rgb(255,255,255)?style=flat&logo=graphql&logoColor=E10098"/>
-  <img src="https://img.shields.io/badge/GitHub-rgb(255,255,255)?style=flat&logo=github&logoColor=181717"/>
-  <img src="https://img.shields.io/badge/Notion-rgb(255,255,255)?style=flat&logo=notion&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Xlsxwriter for Execl RPA-rgb(255,255,255)?style=flat&logo=microsoftexcel&logoColor=217346"/>
     
   <h2>Learning & Preparing😎<h2>
   <img src="https://img.shields.io/badge/Django-rgb(255,255,255)?style=flat&logo=django&logoColor=092E20"/>
