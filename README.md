@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <div>
   <h2>Can do🔥<h2>
   <img src="https://img.shields.io/badge/Android System Performance-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/>
-  <img src="https://img.shields.io/badge/Android Platform Memory Management-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/>
+  <img src="https://img.shields.io/badge/Android Platform Memory Management-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/><br>
   <img src="https://img.shields.io/badge/Android Platform Automation Test-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/>
   <img src="https://img.shields.io/badge/Android Process Life Cycle Analysis-rgb(255,255,255)?style=flat&logo=android&logoColor=#3DDC84"/><br>
   <img src="https://img.shields.io/badge/Python-rgb(255,255,255)?style=flat&logo=python&logoColor=F7DF1E"/>
