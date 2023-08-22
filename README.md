@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/HTML5-rgb(255,255,255)?style=flat&logo=html5&logoColor=E34F26"/>
   <img src="https://img.shields.io/badge/CSS3-rgb(255,255,255)?style=flat&logo=css3&logoColor=1572B6"/>
   <img src="https://img.shields.io/badge/JavaScript-rgb(255,255,255)?style=flat&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/GraphQL-rgb(255,255,255)?style=flat&logo=graphql&logoColor=E10098"/>
-  <img src="https://img.shields.io/badge/React-rgb(255,255,255)?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-rgb(255,255,255)?style=flat&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-rgb(255,255,255)?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/GraphQL-rgb(255,255,255)?style=flat&logo=graphql&logoColor=E10098"/>
   <img src="https://img.shields.io/badge/GitHub-rgb(255,255,255)?style=flat&logo=github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Notion-rgb(255,255,255)?style=flat&logo=notion&logoColor=000000"/>
     
