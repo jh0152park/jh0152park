@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/GraphQL-rgb(255,255,255)?style=flat&logo=graphql&logoColor=E10098"/>
   <img src="https://img.shields.io/badge/GitHub-rgb(255,255,255)?style=flat&logo=github&logoColor=181717"/>
   <img src="https://img.shields.io/badge/Notion-rgb(255,255,255)?style=flat&logo=notion&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Xlsxwriter for Execl RPA-rgb(255,255,255)?style=flat&logo=notion&logoColor=217346"/>
     
   <h2>Learning & Preparing😎<h2>
   <img src="https://img.shields.io/badge/Django-rgb(255,255,255)?style=flat&logo=django&logoColor=092E20"/>
