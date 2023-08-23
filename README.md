@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <div align="left">
-  <h2>✅ My Work Experience ✅</h2>
+  <h2>My Work Experience👨🏻‍💻</h2>
   <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
   <br>
   <span>삼성전자 무선사업부 System Platform 개발그룹, Android Platform Memory, RAM Refresh Performance, Process Life Cycle 분석 및 고도화</span>
