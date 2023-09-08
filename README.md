@@ -39,7 +39,6 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/React Native-rgb(255,255,255)?style=flat&logo=react&logoColor=9F32A5"/>
   <img src="https://img.shields.io/badge/Dart-rgb(255,255,255)?style=flat&logo=dart&logoColor=0175C2"/>
   <img src="https://img.shields.io/badge/Flutter-rgb(255,255,255)?style=flat&logo=flutter&logoColor=02569B"/>
-  <img src="https://img.shields.io/badge/Appium-rgb(255,255,255)?style=flat&logo=appium&logoColor=E10098"/>
 </div>
 
 
