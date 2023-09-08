@@ -42,22 +42,18 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<div align="left">
-  <h2>My Work Experience👨🏻‍💻</h2>
-<!--   <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/> -->
-  <span style=color:blue>Samsung Electronics</span>
-  <span style="color: blue;">이 글씨는 파란색입니다.</span>
-  <span style="color: blue;">이 글씨는 파란색입니다.</span>
-  <br>
-  <p>System Platform R&G Group at Samsung Electronics Wireless Business Department</p>
-  <p>Since Galaxy S5 to S23 Ultra / Galaxy TabS3 to TabS8</p>
-  <ul>
-    <li>Samsung Galaxy Series platform memory management</li>
-    <li>Samsung Galaxy Series RAM(Memory) refresh performanlie optimization</li>
-    <li>Samsung Galaxy Series RAM(Memory) background processes life cycle optimization & analyse</li>
-    <li>Samsung Galaxy Series RAM(Memory) refresh automated test design and production</li>
-    <li>Samsung Galaxy Series Analysis of performance test results and production of automatic abnormal things detection system</li>
-    <li>Development of automatic performance test result visualization tool</li>
-  </ul>
-</div>
+## My Work Experience👨🏻‍💻
+
+### <span style="color:blue;">Samsung Electronics (2014.02.14 ~  2023.05.15)</span>
+##### System Platform R&G Group at Samsung Electronics Wireless Business Department
+##### Since Galaxy S5 ~ S23 Ultra / Galaxy TabS3 ~ TabS8
+
+- Samsung Galaxy Series platform memory management
+- Samsung Galaxy Series RAM(Memory) refresh performanlie optimization
+- Samsung Galaxy Series RAM(Memory) background processes life cycle optimization & analyse
+- Samsung Galaxy Series RAM(Memory) refresh automated test design and production
+- Samsung Galaxy Series Analysis of performance test results and production of automatic abnormal things detection system
+- Development of automatic performance test result visualization tool
+
+
 
