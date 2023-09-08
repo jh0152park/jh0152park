@@ -44,7 +44,10 @@ You can click the Preview link to take a look at your changes.
 
 <div align="left">
   <h2>My Work Experience👨🏻‍💻</h2>
-  <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/>
+<!--   <img height=70 src="https://img.shields.io/badge/2014.02.14 ~ 2023.05.15-fff?style=social&logo=samsung&logoColor=1428A0"/> -->
+  <span style=color:blue>Samsung Electronics</span>
+  <span style="color: blue;">이 글씨는 파란색입니다.</span>
+  <span style="color: blue;">이 글씨는 파란색입니다.</span>
   <br>
   <p>System Platform R&G Group at Samsung Electronics Wireless Business Department</p>
   <p>Since Galaxy S5 to S23 Ultra / Galaxy TabS3 to TabS8</p>
