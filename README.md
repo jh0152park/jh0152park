@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 ##### Since Galaxy S5 ~ S23 Ultra / Galaxy TabS3 ~ TabS8
 
 - Samsung Galaxy Series platform memory management
-- Samsung Galaxy Series RAM(Memory) refresh performanlie optimization
+- Samsung Galaxy Series RAM(Memory) refresh performance optimization
 - Samsung Galaxy Series RAM(Memory) background processes life cycle optimization & analyse
 - Samsung Galaxy Series RAM(Memory) refresh automated test design and production
 - Samsung Galaxy Series Analysis of performance test results and production of automatic abnormal things detection system
