@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2358CD00&title_bg=%23727272&icon=ghostery.svg&icon_color=%23D1DF90&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - 👋 Hi, I’m @jh0152park
 - 👀 I’m interested in Frontend or QA / Automation / Test
 - 🌱 I’m currently learning especially python
