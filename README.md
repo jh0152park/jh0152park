@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 
 ## My Work Experience👨🏻‍💻
 ### Samsung Electronics (2014.02.14 ~  2023.05.15)
-##### System Platform R&G Group at Samsung Electronics Wireless Business Department
+#### System Performacne Lab, System Platform R&D Group at Samsung Electronics Wireless Business Department
 ##### Since Galaxy S5 ~ S23 Ultra / Galaxy TabS3 ~ TabS8
 
 - Samsung Galaxy Series platform memory management
