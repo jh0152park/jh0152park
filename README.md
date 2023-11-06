@@ -34,6 +34,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/JavaScript-rgb(255,255,255)?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/TypeScript-rgb(255,255,255)?style=flat&logo=typescript&logoColor=3178C6"/>
   <br>
+  <img src="https://img.shields.io/badge/Firebase-rgb(255,255,255)?style=flat&logo=firebase&logoColor=FFCA28"/>
     
   <h2>Learning & Preparing & Interesting😎<h2>
   <img src="https://img.shields.io/badge/Django-rgb(255,255,255)?style=flat&logo=django&logoColor=092E20"/>
