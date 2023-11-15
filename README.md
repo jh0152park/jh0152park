@@ -7,15 +7,6 @@
 - 📫 How to reach me jh0152park@naver.com
 
 
-- 코드에 애착을 가지지 말자
-- 인간을 위한 코드 작성
-- 간단한 코드 작성
-- 일관된 표준 사용
-- 예측 가능한 코드 작성
-- 자주 소통하기
-- 빠르게 그리고 느리게 코딩
-
-
 <!---
 jh0152park/jh0152park is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
