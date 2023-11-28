@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @jh0152park
 - 👀 I’m interested in System / Frontend / Automation / Test
-- 🌱 I’m currently learning especially everything what i need
+- 🌱 I’m currently learning especially everything what I needs
 - 💞️ I’m looking to collaborate on ...? :0
 - 📫 How to reach me jh0152park@naver.com
 
