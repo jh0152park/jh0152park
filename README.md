@@ -1,5 +1,5 @@
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=ECEE81&center=true&vCenter=true&width=900&lines=안녕하세요? 박재현 입니다. 지독한 감기로 인한 임시 휴업입니다..하하 모두 감기 조심하세요😞" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=ECEE81&center=true&vCenter=true&width=900&lines=Thank you for being here and your attention 😎" alt="Typing SVG" /></a>
 </div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjh0152park&count_bg=%2358CD00&title_bg=%23727272&icon=ghostery.svg&icon_color=%23D1DF90&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
