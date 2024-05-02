@@ -42,9 +42,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/Firebase-rgb(255,255,255)?style=flat&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/Django-rgb(255,255,255)?style=flat&logo=django&logoColor=092E20"/>
   <img src="https://img.shields.io/badge/React Native-rgb(255,255,255)?style=flat&logo=react&logoColor=9F32A5"/>
+  <img src="https://img.shields.io/badge/NEXT.JS-rgb(255,255,255)?style=flat&logo=nextdotjs&logoColor=000000"/>
     
   <h2>Learning & Preparing & Interesting😎<h2>
-  <img src="https://img.shields.io/badge/NEXT.JS-rgb(255,255,255)?style=flat&logo=nextdotjs&logoColor=000000"/>
   <img src="https://img.shields.io/badge/Dart-rgb(255,255,255)?style=flat&logo=dart&logoColor=0175C2"/>
   <img src="https://img.shields.io/badge/Flutter-rgb(255,255,255)?style=flat&logo=flutter&logoColor=02569B"/>
 </div>
