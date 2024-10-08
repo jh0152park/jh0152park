@@ -30,10 +30,12 @@ You can click the Preview link to take a look at your changes.
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph // Graph-Koordinaten -->
 <img width="805" src="https://github-readme-activity-graph.vercel.app/graph?username=jh0152park&theme=high-contrast&area_color=FF0000&area=true&point=FF0000&line=FF0000&hide_border=true&" />
     <!-- https://github.com/anuraghazra/github-readme-stats // Most Used Language-->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0152park&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jh0152park&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=400&hide_border=true&title_color=FF0000" />	
+    <img width="400" align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=jh0152park"&layout=compact&text_color=FFFFFF&bg_color=000000&card_width=805&hide_border=true&title_color=FF0000" />
     <br/>
 </p>
 
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jh0152park)](https://solved.ac/jh0152park) -->
 
 <div>
   <h2>Can do🔥<h2>
