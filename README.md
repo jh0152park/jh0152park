@@ -4,9 +4,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjh0152park&count_bg=%2358CD00&title_bg=%23727272&icon=ghostery.svg&icon_color=%23D1DF90&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="https://github.com/jh0152park">
-  <img src="https://render.gitanimals.org/farms/jh0152park"/>
-</a>
+<div align="left">
+  <a href="https://github.com/jh0152park">
+    <img src="https://render.gitanimals.org/farms/jh0152park" width="1500" height="400" />
+  </a>
+</div>
 
 - 👋 Hi, I’m @jh0152park
 - 👀 I’m interested in everythings
